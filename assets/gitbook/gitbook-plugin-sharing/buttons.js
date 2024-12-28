@@ -1,4 +1,4 @@
-require(['gitbook','lodash','jquery'], function(gitbook, _, $) {
+require(['gitbook','jquery','lodash'], function(gitbook, $, _) {
     var SITES = {
         'facebook': {
             'label': 'Facebook',
