@@ -6,4 +6,13 @@ category: Jekyll
 layout: post
 ---
 
-This is an about page.
+<div class="table-wrapper" markdown="block">
+
+|title1|title2|title3|
+|:-:|:-:|:-:|
+|![profile](../assets/profile.jpg)|ㅁㄴㅇㄻㅇㄴㄻ<br>ㅇㄻㄴㅇㄻㅇ|3|
+|1|2|3|
+|1|2|3|
+|1|2|3|
+
+</div>
