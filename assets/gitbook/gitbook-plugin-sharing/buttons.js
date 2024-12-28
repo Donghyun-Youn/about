@@ -10,7 +10,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
         },
         'twitter': {
             'label': 'Twitter',
-            'icon': 'fa fa-square-twitter',
+            'icon': 'fa fa-twitter-square',
             'onClick': function(e) {
                 e.preventDefault();
                 window.open('http://twitter.com/home?status='+encodeURIComponent(document.title+' '+location.href));
