@@ -16,6 +16,14 @@ Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https:/
   <img src="./assets/profile.jpg" width = "100%">
 </p>
 
+<div class=pull-right>
+https://steemitimages.com/DQmbgbaB3WAU9AHEeNAJY53CiNJy5u55iy3WvSJndrkf15n/%EA%B3%A0%EC%96%91%EC%9D%B4.jpg
+</div>
+<div class=pull-left>
+안녕하세요~~스티미언 여러분!<br>오늘은 [마크다운]따라잡기 이미지와 문자정렬을 자유자재로 우측과 좌측 선택해서 할수있는 명령어를 익혀보겠습니다.
+참고 : 한칸띄우고 아래명령어를 입력합니다.
+</div>
+
 GitBook is an amazing frontend style to present and organize contents (such as book chapters
 and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
 is building HTML files locally and then push to Github repository, usually to the `gh-pages`
