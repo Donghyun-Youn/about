@@ -1,7 +1,7 @@
             "sharing": {
                 "facebook": true,
 
-                "google": true,
+                "google": false,
 
                 "github": true,
               {% if site.github_username %}
@@ -13,7 +13,7 @@
                 "telegram": false,
                 "telegram_link": "https://t.me",
 
-                "instapaper": true,
+                "instapaper": false,
 
                 "twitter": true,
               {% if site.twitter_username %}
