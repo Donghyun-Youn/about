@@ -13,7 +13,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
             'icon': 'fa fa-linkedin',
             'onClick': function(e) {
                 e.preventDefault();
-                window.open('http://twitter.com/home?status='+encodeURIComponent(document.title+' '+location.href));
+                window.open('https://www.linkedin.com/in/donghyun-youn-116b72156/');
             }
         },
         'github': {
@@ -37,7 +37,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
             'icon': 'fa fa-graduation-cap',
             'onClick': function(e) {
                 e.preventDefault();
-                window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href));
+                window.open('https://scholar.google.com/citations?hl=ko&user=tYanKRIAAAAJ');
             }
         },
         'weibo': {
