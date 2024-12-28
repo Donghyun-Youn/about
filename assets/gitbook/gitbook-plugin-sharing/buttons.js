@@ -1,4 +1,4 @@
-require(['gitbook','jquery'], function(gitbook, $) {
+require(['gitbook', 'jquery'], function(gitbook, $) {
     var SITES = {
         'facebook': {
             'label': 'Facebook',
@@ -50,7 +50,7 @@ require(['gitbook','jquery'], function(gitbook, $) {
         },
         'instapaper': {
             'label': 'Instapaper',
-            'icon': 'fa fa-google',
+            'icon': 'fa fa-instapaper',
             'onClick': function(e) {
                 e.preventDefault();
                 window.open('http://www.instapaper.com/text?u='+encodeURIComponent(location.href));
