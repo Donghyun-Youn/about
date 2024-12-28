@@ -1,9 +1,9 @@
 ---
 layout: home
-title: Welcome, I'm Donghyun Youn
+title: Welcome!
 permalink: /
 ---
-# a PhD student from KAIST
+## I'm Donghyun Youn, a Ph.D. student from KAIST
 
 <p align="center">
   <img src="./assets/profile.jpg" width = "100%">
