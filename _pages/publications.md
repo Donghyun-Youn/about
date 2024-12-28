@@ -10,7 +10,7 @@ layout: post
 
 |title1|title2|title3|
 |:-:|:-:|:-:|
-|![chip1](../assets/profile.jpg){: width="100"}|ㅁㄴㅇㄻㅇㄴㄻ<br>ㅇㄻㄴㅇㄻㅇ|3|
+|![chip1](../../assets/profile.jpg){: width="100"}|ㅁㄴㅇㄻㅇㄴㄻ<br>ㅇㄻㄴㅇㄻㅇ|3|
 |1|2|3|
 |1|2|3|
 |1|2|3|
