@@ -7,6 +7,7 @@ layout: post
 ---
 
 <div style="text-align: right">* Equally-Contributed Authors</div>
+<div style="text-align: right"> Click the die photos to zoom in</div>
 
 <div class="table-wrapper" markdown="block">
 
