@@ -13,7 +13,7 @@
                 "telegram": false,
                 "telegram_link": "https://t.me",
 
-                "linkedin": true,
+                "instapaper": true,
 
                 "twitter": true,
               {% if site.twitter_username %}
@@ -24,5 +24,5 @@
 
                 "weibo": false,
 
-                "all": ["facebook", "google", "twitter", "weibo", "linkedin", "github", "telegram"]
+                "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram"]
             },
