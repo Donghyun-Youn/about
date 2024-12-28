@@ -1,7 +1,7 @@
             "sharing": {
                 "facebook": true,
 
-                "google": false,
+                "google": true,
 
                 "github": true,
               {% if site.github_username %}
