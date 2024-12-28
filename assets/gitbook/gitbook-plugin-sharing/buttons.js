@@ -65,7 +65,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
             }
         }
         'linkedin': {
-            'label': 'Linkedin',
+            'label': 'LinkedIn',
             'icon': 'fa fa-linkedin',
             'onClick': function(e) {
                 e.preventDefault();
