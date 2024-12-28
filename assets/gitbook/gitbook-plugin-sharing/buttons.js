@@ -10,7 +10,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
         },
         'twitter': {
             'label': 'Twitter',
-            'icon': 'fa fa-twitter-square',
+            'icon': 'fa fa-twittersquare',
             'onClick': function(e) {
                 e.preventDefault();
                 window.open('http://twitter.com/home?status='+encodeURIComponent(document.title+' '+location.href));
@@ -48,9 +48,9 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
                 window.open('http://service.weibo.com/share/share.php?content=utf-8&url='+encodeURIComponent(location.href)+'&title='+encodeURIComponent(document.title));
             }
         },
-        'instapaper': {
-            'label': 'Instapaper',
-            'icon': 'fa fa-instapaper',
+        'linkedin': {
+            'label': 'Linkedin',
+            'icon': 'fa fa-linkedin',
             'onClick': function(e) {
                 e.preventDefault();
                 window.open('http://www.instapaper.com/text?u='+encodeURIComponent(location.href));
