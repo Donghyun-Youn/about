@@ -1,7 +1,7 @@
 ---
-title: About others
+title: CV
 author: Tao He
-date: 2022-02-04
+date: 2022-02-07
 category: Jekyll
 layout: post
 ---
