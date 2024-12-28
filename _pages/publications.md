@@ -6,7 +6,8 @@ category: Jekyll
 layout: post
 ---
 
-<right>* Equally-Contributed Authors</right>
+<div style="text-align: right">* Equally-Contributed Authors</div>
+
 <div class="table-wrapper" markdown="block">
 
 |:-:|:-|
