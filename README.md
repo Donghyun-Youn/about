@@ -8,14 +8,12 @@ Make Jelly site have a GitBook!
 
 ## Demo
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
-
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook) [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
 ## Why Jekyll with GitBook
 
 <p align="center">
-  <img src="./assets/profile.jpg" width = "77%">
+  <img src="./assets/profile.jpg" width = "100%">
 </p>
 
 GitBook is an amazing frontend style to present and organize contents (such as book chapters
