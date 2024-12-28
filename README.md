@@ -2,7 +2,7 @@
 layout: home
 title: Jekyll Gitbook
 permalink: /
-cover: /assets/dinosaur.gif
+cover: /assets/profile.jpg
 ---
 
 Make Jelly site have a GitBook!
