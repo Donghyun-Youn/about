@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Jekyll Gitbook
+title: Jekyll Gitboo3
 permalink: /
 ---
 
