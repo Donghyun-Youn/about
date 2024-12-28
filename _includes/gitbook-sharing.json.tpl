@@ -1,9 +1,9 @@
             "sharing": {
                 "facebook": false,
 
-                "google": false,
+                "google": true,
 
-                "github": true,
+                "github": false,
               {% if site.github_username %}
                 "github_link": "https://github.com/{{ site.github_username }}",
               {% else %}
