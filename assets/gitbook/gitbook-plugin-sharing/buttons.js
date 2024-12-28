@@ -34,7 +34,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
         },
         'google': {
             'label': 'Google+',
-            'icon': 'fa fa-google-plus',
+            'icon': 'fa fa-graduation-cap',
             'onClick': function(e) {
                 e.preventDefault();
                 window.open('https://plus.google.com/share?url='+encodeURIComponent(location.href));
