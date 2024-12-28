@@ -14,7 +14,9 @@ Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https:/
 
 ## Why Jekyll with GitBook
 
-![profile](./assets/profile.jpg){: width="77%"}
+<p align="center">
+  <img src="./assets/profile.jpg">
+</p>
 
 GitBook is an amazing frontend style to present and organize contents (such as book chapters
 and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
