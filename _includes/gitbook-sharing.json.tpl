@@ -20,6 +20,8 @@
                 "twitter_link": "https://twitter.com/{{ site.twitter_username }}",
               {% endif %}
 
+                "linkedin": true,
+
                 "vk": false,
 
                 "weibo": false,
