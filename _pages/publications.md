@@ -10,7 +10,7 @@ layout: post
 
 |Chip Photo|<center>Title & Contribution</center>|
 |:-:|:-|
-|![chip1](https://donghyun-youn.github.io/about/assets/profile.jpg){: width="350"}|**An 18.5nF-Input-Range PM-SAR Hybrid Capacitance-to-Digital Converter Achieving 6.1μs Conversion Time at 18.1pF Input Capacitance** [![chip1](https://donghyun-youn.github.io/about/assets/profile.jpg){: width="30"}](https://www.naver.com) (28.1)<br>IEEE International Solid-State Circuits Conference (ISSCC) 2025 <br> <details> <summary>Authors</summary> Donghyun Youn</details> |
+|![chip1](https://donghyun-youn.github.io/about/assets/profile.jpg){: width="350"}|**An 18.5nF-Input-Range PM-SAR Hybrid Capacitance-to-Digital Converter Achieving 6.1μs Conversion Time at 18.1pF Input Capacitance** [![chip1](https://donghyun-youn.github.io/about/assets/profile.jpg){: width="30"}](https://www.naver.com) (28.1)<br>IEEE International Solid-State Circuits Conference (ISSCC) 2025 <br> <details><summary>Authors</summary>Donghyun Youn</details> |
 |1|2|
 |1|2|
 |1|2|
