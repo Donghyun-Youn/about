@@ -7,10 +7,10 @@ layout: post
 ---
 
 <div style="text-align: right">* Equally-Contributed Authors</div>
-<div style="text-align: right"> Click the die photos to zoom in</div>
+<div style="text-align: right">** Click the die photos to zoom in</div>
 
 <div class="table-wrapper" markdown="block">
-
+|Die photograph\*\*|<center>Title & Contribution</center>|
 |:-:|:-|
 |![chip1](https://donghyun-youn.github.io/about/assets/publications/1_Wide-input-range_Fast-conversion_CDC.png){: width="700"} <br> | **An 18.5nF-Input-Range PM-SAR Hybrid Capacitance-to-Digital Converter Achieving 6.1μs Conversion Time at 18.1pF Input Capacitance** [![chip1](https://donghyun-youn.github.io/about/assets/icon/pdf_icon.png){: height="12"}](https://www.naver.com) **(28.1)**<br>*IEEE International Solid-State Circuits Conference (**ISSCC**) 2025* <br> <u>Donghyun Youn</u>, Kyeongwon Jeong, Woongro Youn, Hoyong Seong, Yechan Park, Sohmyung Ha, and Minkyu Je <br><br> **Contribution**: 1st author|
 |![chip1](https://donghyun-youn.github.io/about/assets/publications/2_FS_WPDT.png){: width="700"} <br> | **An Enhanced Frequency-Splitting-Based Wireless Power and Data Transfer System Achieving 60.2% End-to-End Efficiency and 1Mb/s Data Rate with a Sub-cm RX Coil for Miniaturized Implants** [![chip1](https://donghyun-youn.github.io/about/assets/icon/pdf_icon.png){: height="12"}](https://www.naver.com) **(35.6)**<br>*IEEE International Solid-State Circuits Conference (**ISSCC**) 2025* <br> Yechan Park, Phan Dang Hung, <u>Donghyun Youn</u>, Daehyeon Kwon, Chul Kim, and Minkyu Je <br><br> **Contribution**: technical discussion on overall context, Fig. 1-7|
