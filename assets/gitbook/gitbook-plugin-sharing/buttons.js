@@ -10,7 +10,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
         },
         'twitter': {
             'label': 'Twitter',
-            'icon': 'fa fa-twittersquare',
+            'icon': 'fa fa-twitter',
             'onClick': function(e) {
                 e.preventDefault();
                 window.open('http://twitter.com/home?status='+encodeURIComponent(document.title+' '+location.href));
@@ -50,7 +50,7 @@ require(['gitbook', 'jquery'], function(gitbook, $) {
         },
         'instapaper': {
             'label': 'Instapaper',
-            'icon': 'fa fa-linkedin',
+            'icon': 'fa fa-google',
             'onClick': function(e) {
                 e.preventDefault();
                 window.open('http://www.instapaper.com/text?u='+encodeURIComponent(location.href));
