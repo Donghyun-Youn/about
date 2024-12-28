@@ -1,6 +1,6 @@
 ---
 layout: home
-title:  
+title: Welcome, I'm Donghyun Youn
 permalink: /
 ---
 
