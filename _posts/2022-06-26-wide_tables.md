@@ -14,7 +14,9 @@ to make sure it displayed as expected on mobile devices. For example,
 
 |title1|title2|title3|title4|title5|title6|title7|title8|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4|5|6|7|8|
+|<p align="center">
+  <img src="./assets/profile.jpg" width = "77%">
+</p>|2|3|4|5|6|7|8|
 |1|2|3|4|5|6|7|8|
 |1|2|3|4|5|6|7|8|
 |1|2|3|4|5|6|7|8|
