@@ -2,7 +2,6 @@
 layout: home
 title: Jekyll Gitbook
 permalink: /
-cover: https://github.com/Donghyun-Youn/about/blob/master/assets/profile.jpg
 ---
 
 Make Jelly site have a GitBook!
@@ -14,6 +13,8 @@ Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https:/
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
 ## Why Jekyll with GitBook
+
+<img src="./assets/profile.jpg", height="100x", width="100px">
 
 GitBook is an amazing frontend style to present and organize contents (such as book chapters
 and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
