@@ -42,3 +42,5 @@ Thank you!<br>
   <a href="https://scholar.google.com/citations?hl=ko&user=tYanKRIAAAAJ" target="_blank"><img src="https://donghyun-youn.github.io/about/assets/icon/scholar_icon.png" width = "49"></a>
   &nbsp;<a href="https://www.linkedin.com/in/donghyun-youn-116b72156/" target="_blank"><img src="https://donghyun-youn.github.io/about/assets/icon/linkedin_icon.png" width = "49"></a>
 </p>
+
+Copyright 2024 Donghyun Youn. Powered by [Jekyll](https://jekyllrb.com/) with [Gitbook](https://sighingnow.github.io/jekyll-gitbook) theme. Hosted by [GitHub Pages](https://pages.github.com/).
