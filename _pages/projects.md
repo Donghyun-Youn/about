@@ -7,9 +7,8 @@ layout: post
 ---
 
 ## Research Assistant
-<div style="text-align: right">(Update: Dec. 2024)  * Project leader   ** Click the die photos to zoom in</div>
-<div style="text-align: right"></div>
-<div style="text-align: right"></div>
+<div style="text-align: right"><b>* Project leader</b>&nbsp;&nbsp;&nbsp;** Click the die photos to zoom in&nbsp;&nbsp;&nbsp;(Update: Dec. 2024)</div>
+
 
 <div class="table-wrapper" markdown="block">
 |Die photograph\*\*|<center>Title & Contribution</center>|
