@@ -33,8 +33,8 @@ and **<span style="color:blue">being on-site at San Francisco in Feb. 2025 to pr
 If you are requiring any assistance or interested in my experience, please feel free to reach me.<br>
 I would be happy to tell you the details and dive into discussions.<br>
 
-I look forward to connecting with you.
-Thank you!
+I look forward to connecting with you.<br>
+Thank you!<br>
 <p align="center">
   <a href="dhyoun93@gmail.com" target="_blank"><img src="https://donghyun-youn.github.io/about/assets/icon/gmail_icon.png" width = "49"></a>
   <a href="https://scholar.google.com/citations?hl=ko&user=tYanKRIAAAAJ" target="_blank"><img src="https://donghyun-youn.github.io/about/assets/icon/scholar_icon.png" width = "49"></a>
