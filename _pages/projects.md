@@ -6,6 +6,9 @@ category: Jekyll
 layout: post
 ---
 
+## As a Research Assistant
+<div style="text-align: right">Update: Dec. 2024</div>
+<div style="text-align: right">* Project leader</div>
 <div style="text-align: right">** Click the die photos to zoom in</div>
 
 <div class="table-wrapper" markdown="block">
