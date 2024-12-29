@@ -11,9 +11,9 @@ layout: post
 + **Contact Points**<br>
 </span>
 <span style="font-size: 21px>
-&nbsp;&nbsp;- **Phone**: +82 10-5162-7462<br>
-&nbsp;&nbsp;- **E-mail 1**: [dhyoun93@gmail.com](dhyoun93@gmail.com)<br>
-&nbsp;&nbsp;- **E-mail 2**: [dh93.youn@kaist.ac.kr](dh93.youn@kaist.ac.kr)<br>
-&nbsp;&nbsp;- **Linkedin**: [Link](https://www.linkedin.com/in/donghyun-youn-116b72156/)<br>
-&nbsp;&nbsp;- **Google Scholar**: [Link](https://scholar.google.com/citations?hl=ko&user=tYanKRIAAAAJ)
+  - **Phone**: +82 10-5162-7462<br>
+  - **E-mail 1**: [dhyoun93@gmail.com](dhyoun93@gmail.com)<br>
+  - **E-mail 2**: [dh93.youn@kaist.ac.kr](dh93.youn@kaist.ac.kr)<br>
+  - **Linkedin**: [Link](https://www.linkedin.com/in/donghyun-youn-116b72156/)<br>
+  - **Google Scholar**: [Link](https://scholar.google.com/citations?hl=ko&user=tYanKRIAAAAJ)
 </span>
