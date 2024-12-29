@@ -2,6 +2,7 @@
 layout: post
 title: Welcome!
 permalink: /
+cover: https://donghyun-youn.github.io/about/assets/profile.jpg
 ---
 ## I'm Donghyun Youn, a Ph.D. student from KAIST
 
