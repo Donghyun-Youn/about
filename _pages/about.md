@@ -30,8 +30,8 @@ I have enjoyed discussions with them to experience broad range of applications a
 
 If you are interested in my works, please feel free to reach me.<br>
 I will be happy to tell you the details and dive into discussions.<br>
-<center>
+<p align="center">
 [![profile](https://donghyun-youn.github.io/about/assets/icon/gmail_icon.png){: height="49"}](dhyoun93@gmail.com)
 [![profile](https://donghyun-youn.github.io/about/assets/icon/scholar_icon.png){: height="49"}](https://scholar.google.com/citations?hl=ko&user=tYanKRIAAAAJ)
 [![profile](https://donghyun-youn.github.io/about/assets/icon/linkedin_icon.png){: height="49"}](https://www.linkedin.com/in/donghyun-youn-116b72156/)
-</center>
+</p>
