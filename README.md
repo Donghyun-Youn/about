@@ -43,4 +43,4 @@ Thank you!<br>
   &nbsp;<a href="https://www.linkedin.com/in/donghyun-youn-116b72156/" target="_blank"><img src="https://donghyun-youn.github.io/about/assets/icon/linkedin_icon.png" width = "49"></a>
 </p>
 
-<span style="color:gray"><center>Copyright 2024 Donghyun Youn. Powered by [Jekyll](https://jekyllrb.com/) with [Gitbook](https://sighingnow.github.io/jekyll-gitbook) theme. Hosted by [GitHub Pages](https://pages.github.com/).</center></span>
+<center>Copyright 2024 Donghyun Youn. Powered by [Jekyll](https://jekyllrb.com/) with [Gitbook](https://sighingnow.github.io/jekyll-gitbook) theme. Hosted by [GitHub Pages](https://pages.github.com/).
