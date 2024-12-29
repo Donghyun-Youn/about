@@ -11,7 +11,8 @@ layout: post
 </p>
 
 I am an IC designer, as a member of [IMPACT Lab](https://impact.kaist.ac.kr/) with 35+ graduate students and 14+ research projects.<br>
-I have enjoyed discussions with them to experience broad range of applications and circuit blocks, **being proficient in**<br>
+I have enjoyed discussions with them to experience broad range of applications and circuit blocks, <br>
+**being proficient in**<br>
 1) analog/mixed-signal IC designs<br>
 2) mathematical analysis on their behavior or noise model**.<br>
 
