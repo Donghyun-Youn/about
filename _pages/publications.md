@@ -1,11 +1,12 @@
 ---
 title: Publications
-author: Tao He
+author: Donghyun Youn
 date: 2022-02-05
 category: Jekyll
 layout: post
 ---
 
+<div style="text-align: right">Update: Dec. 2024</div>
 <div style="text-align: right">* Equally-Contributed Authors</div>
 <div style="text-align: right">** Click the die photos to zoom in</div>
 
