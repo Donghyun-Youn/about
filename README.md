@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: post
 title: Welcome!
 permalink: /
 ---
@@ -27,7 +27,7 @@ I have enjoyed discussions with them to experience broad range of applications a
 + TSMC 55nm ULP
 + Samsung 28nm LPP<br>
 
-I am on the lookout for internship opportunities in IC design,
+I am on the lookout for internship opportunities in IC design,<br>
 and **<span style="color:blue">being on-site at San Francisco in Feb. 2025 to present my paper in ISSCC</span>**.
 
 If you are requiring any assistance or interested in my experience, please feel free to reach me.<br>
