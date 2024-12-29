@@ -8,9 +8,6 @@ permalink: /
 <p align="center">
   <img src="./assets/profile.jpg" width = "100%">
 </p>
-
-## This is an overview of my research journey on IC design
-
 <p align="center">
   <img src="https://donghyun-youn.github.io/about/assets/Overview.png" width = "100%">
 </p>
