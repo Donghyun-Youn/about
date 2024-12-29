@@ -19,7 +19,7 @@ layout: post
 |**<u>RF TRX IC for Capsule Endoscopy</u>** <br> [![chip1](https://donghyun-youn.github.io/about/assets/projects/12_Capsule_Endoscopy.png){: width="200"}](https://donghyun-youn.github.io/about/assets/projects/12_Capsule_Endoscopy.png) <br> | **Collaboration**: Intromedic, South Korea <br> **PDK**: TSMC 180nm GP <br> **Architecture**: TX(PLL+PA) & RX(LNA+Mixer+BB Amp.) <br> **Modulation**: 16-QAM (TX, 20Mbps) & 2-FSK (RX, 100kbps) <br> **Target Band**: ULP-WMCE (430-440MHz)<br> **Power Consumption**: 10mW<br> **TX Output Power**: --5dBm<br> **Contribution**: <br> 1) 16-QAM 435-MHz power amplifier (PA) with <20-ns startup <br> 2) SPI interface & digital filter (custom-designed) <br> 3) Top layout design for core|
 
 </div>
-
+<br>
 ## Undergraduate
 <div style="text-align: right"><b>* Project leader</b></div><br>
 **<u>Home Appliance Control System Based on Gesture Recognition</u>**\* ([Link](https://www.youtube.com/watch?v=0Td27zwFiqM)) <br>
@@ -28,5 +28,5 @@ layout: post
 **<u>Signal Processing of High-Voltage Thin-Film-Transistor (TFT)-Based Tactile Sensor</u>**\* ([Link](https://sites.google.com/view/ndllab/research/%EC%97%B0%EA%B5%AC%EB%B0%A9%ED%96%A5/biomimetic-tactile-sensor)) <br>
 **Contribution**: <br> 1) MATLAB algorithm for real-time time-distance data of 3-axis accelerometer to calibrate TFT tactile sensor data <br><br>
 
-**<u>Light Saber Model Utilizing MCU with 3-Axis Accelerometer, LED, and Audio Amplifier</u>**\* <br>
+**<u>Light Saber Model Utilizing MCU with 3-Axis Accelerometer, LED, and Audio Amplifier</u>** <br>
 **Contribution**: <br> 1) Hardware design combining sensors and actuators interacting <br> 2) C++ algorithm for gesture recognition
