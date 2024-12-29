@@ -14,7 +14,7 @@ I am an IC designer, as a member of [IMPACT Lab](https://impact.kaist.ac.kr/) wi
 I have enjoyed discussions with them to experience broad range of applications and circuit blocks, <br>
 **being proficient in**<br>
 &nbsp;&nbsp;1\) analog/mixed-signal IC designs<br>
-&nbsp;&nbsp;2\) mathematical analysis on their behavior or noise model**.<br>
+&nbsp;&nbsp;2\) mathematical analysis on their behavior or noise model.<br>
 
 **During my Ph.D. degrees, I led six successful tape-outs**, designing following circuits:
 + Frequency-Locked Loop (FLL) & Oscillators
