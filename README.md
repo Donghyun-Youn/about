@@ -18,7 +18,7 @@ I have enjoyed discussions with them to experience broad range of applications a
 **During my Ph.D. degrees, I led six successful tape-outs** with following circuits:
 + Frequency-Locked Loop (FLL) & Oscillators
 + Analog-to-Digital Converter (SAR, ΔΣM)
-+ RF Transmitter<br>
++ RF Transmitter (16-QAM Modulator)<br>
 
 **which are implemented in diverse process nodes**:
 + TSMC 180nm GP
