@@ -8,9 +8,6 @@ permalink: /
 <p align="center">
   <img src="./assets/profile.jpg" width = "100%">
 </p>
-<p align="center">
-  <img src="https://donghyun-youn.github.io/about/assets/Overview.png" width = "100%">
-</p>
 
 I am an IC designer, as a member of [IMPACT Lab](https://impact.kaist.ac.kr/) with 35+ graduate students and 14+ research projects.<br>
 I have enjoyed discussions with them to experience broad range of applications and circuit blocks, <br>
