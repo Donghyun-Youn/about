@@ -6,4 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-This is an about page.
+<p align="center">
+  <img src="https://donghyun-youn.github.io/about/assets/Overview.png" width = "100%">
+</p>
+
