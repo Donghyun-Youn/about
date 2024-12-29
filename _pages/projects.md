@@ -23,10 +23,10 @@ layout: post
 ## Undergraduate
 <div style="text-align: right"><b>* Project leader</b></div><br>
 **<u>Home Appliance Control System Based on Gesture Recognition</u>**\* ([Link](https://www.youtube.com/watch?v=0Td27zwFiqM)) <br>
-**Contribution**: <br> 1) MATLAB algorithm for gesture recognition <br> 2) its real-time demonstration with various gestures and places <br><br>
+&nbsp;**Contribution**: <br>&nbsp;&nbsp; 1) MATLAB algorithm for gesture recognition <br>&nbsp;&nbsp; 2) its real-time demonstration with various gestures and places <br><br>
 
 **<u>Signal Processing of High-Voltage Thin-Film-Transistor (TFT)-Based Tactile Sensor</u>**\* ([Link](https://sites.google.com/view/ndllab/research/%EC%97%B0%EA%B5%AC%EB%B0%A9%ED%96%A5/biomimetic-tactile-sensor)) <br>
-**Contribution**: <br> 1) MATLAB algorithm for real-time time-distance data of 3-axis accelerometer to calibrate TFT tactile sensor data <br><br>
+&nbsp;**Contribution**: <br>&nbsp;&nbsp; 1) MATLAB algorithm for real-time time-distance data of 3-axis accelerometer to calibrate TFT tactile sensor data <br><br>
 
 **<u>Light Saber Model Utilizing MCU with 3-Axis Accelerometer, LED, and Audio Amplifier</u>** <br>
-**Contribution**: <br> 1) Hardware design combining sensors and actuators interacting <br> 2) C++ algorithm for gesture recognition
+&nbsp;**Contribution**: <br>&nbsp;&nbsp; 1) Hardware design combining sensors and actuators interacting <br>&nbsp;&nbsp; 2) C++ algorithm for gesture recognition
