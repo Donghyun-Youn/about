@@ -22,5 +22,6 @@ layout: post
 
 ## Undergraduate
 <div style="text-align: right"><b>* Project leader</b></div>
-**Home Appliance Control System Based on Gesture Recognition**\*
+**Home Appliance Control System Based on Gesture Recognition**\* ([Link](https://www.youtube.com/watch?v=0Td27zwFiqM))
+
 **Contribution**: <br> 1) MATLAB algorithm for gesture recognition 2) its real-time demonstration with various gestures and places
