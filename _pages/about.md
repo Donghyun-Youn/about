@@ -28,4 +28,5 @@ I have enjoyed discussions with them to experience broad range of applications a
 + TSMC 55nm ULP
 + Samsung 28nm LPP<br>
 
-If you are interested in my works, please feel free to reach me.  I will be happy to tell you the details and dive into discussions.
+If you are interested in my works, please feel free to reach me.<br>
+I will be happy to tell you the details and dive into discussions.<br>
