@@ -30,3 +30,5 @@ I have enjoyed discussions with them to experience broad range of applications a
 
 If you are interested in my works, please feel free to reach me.<br>
 I will be happy to tell you the details and dive into discussions.<br>
+[![profile](https://donghyun-youn.github.io/about/assets/icon/gmail_icon.png){: height="77"}](dhyoun93@gmail.com)
+[![profile](https://donghyun-youn.github.io/about/assets/icon/gmail_icon.png){: height="77"}](dhyoun93@gmail.com)
