@@ -8,7 +8,7 @@ layout: post
 
 <span style="font-size: 27px">
 + <b>CV</b>: [Link](https://donghyun-youn.github.io/about/assets/%5BCV%5D%20Donghyun%20Youn.pdf)<br><br>
-+ <b>Contact Points</b>
++ <b>Contact Points</b><br>
 <span style="font-size: 21px">
   - <b>Phone</b>: +82 10-5162-7462<br>
   - <b>E-mail 1</b>: [dhyoun93@gmail.com](dhyoun93@gmail.com)<br>
