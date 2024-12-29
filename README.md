@@ -10,9 +10,7 @@ permalink: /
 </p>
 
 <p align="center">
-  <a href="dhyoun93@gmail.com" target="_blank"><img src="https://donghyun-youn.github.io/about/assets/icon/gmail_icon.png" width = "49"></a>
-  <a href="https://scholar.google.com/citations?hl=ko&user=tYanKRIAAAAJ" target="_blank"><img src="https://donghyun-youn.github.io/about/assets/icon/scholar_icon.png" width = "49"></a>
-  &nbsp;<a href="https://www.linkedin.com/in/donghyun-youn-116b72156/" target="_blank"><img src="https://donghyun-youn.github.io/about/assets/icon/linkedin_icon.png" width = "49"></a>
+  <img src="https://donghyun-youn.github.io/about/assets/Overview.png" width = "100%">
 </p>
 
 I am an IC designer, as a member of [IMPACT Lab](https://impact.kaist.ac.kr/) with 35+ graduate students and 14+ research projects.<br>
@@ -42,6 +40,9 @@ I would be happy to tell you the details and dive into discussions.<br>
 I look forward to connecting with you.<br>
 Thank you!<br>
 <br>
+
 <p align="center">
-  <img src="https://donghyun-youn.github.io/about/assets/Overview.png" width = "100%">
+  <a href="dhyoun93@gmail.com" target="_blank"><img src="https://donghyun-youn.github.io/about/assets/icon/gmail_icon.png" width = "49"></a>
+  <a href="https://scholar.google.com/citations?hl=ko&user=tYanKRIAAAAJ" target="_blank"><img src="https://donghyun-youn.github.io/about/assets/icon/scholar_icon.png" width = "49"></a>
+  &nbsp;<a href="https://www.linkedin.com/in/donghyun-youn-116b72156/" target="_blank"><img src="https://donghyun-youn.github.io/about/assets/icon/linkedin_icon.png" width = "49"></a>
 </p>
