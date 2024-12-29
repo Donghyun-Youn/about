@@ -19,3 +19,8 @@ layout: post
 |**<u>RF TRX IC for Capsule Endoscopy</u>** <br> [![chip1](https://donghyun-youn.github.io/about/assets/projects/12_Capsule_Endoscopy.png){: width="200"}](https://donghyun-youn.github.io/about/assets/projects/12_Capsule_Endoscopy.png) <br> | **Collaboration**: Intromedic, South Korea <br> **PDK**: TSMC 180nm GP <br> **Architecture**: TX(PLL+PA) & RX(LNA+Mixer+BB Amp.) <br> **Modulation**: 16-QAM (TX, 20Mbps) & 2-FSK (RX, 100kbps) <br> **Target Band**: ULP-WMCE (430-440MHz)<br> **Power Consumption**: 10mW<br> **TX Output Power**: --5dBm<br> **Contribution**: <br> 1) 16-QAM 435-MHz power amplifier (PA) with <20-ns startup <br> 2) SPI interface & digital filter (custom-designed) <br> 3) Top layout design for core|
 
 </div>
+
+## Undergraduate
+<div style="text-align: right"><b>* Project leader</b></div>
+**Home Appliance Control System Based on Gesture Recognition**\*
+**Contribution**: <br> 1) MATLAB algorithm for gesture recognition 2) its real-time demonstration with various gestures and places
