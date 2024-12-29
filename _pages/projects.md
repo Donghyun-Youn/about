@@ -20,8 +20,7 @@ layout: post
 
 </div>
 <br>
-## Undergraduate
-<div style="text-align: right"><b>* Project leader</b></div><br>
+## Undergraduate <div style="text-align: right"><b>* Project leader</b></div><br>
 **<u>Home Appliance Control System Based on Gesture Recognition</u>**\* ([Link](https://www.youtube.com/watch?v=0Td27zwFiqM)) <br>
 &nbsp;**Contribution**: <br>&nbsp; 1) MATLAB algorithm for gesture recognition <br>&nbsp; 2) its real-time demonstration with various gestures and places <br><br>
 
