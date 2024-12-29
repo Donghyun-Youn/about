@@ -1,6 +1,6 @@
 ---
-title: About
-author: Tao He
+title: Overview
+author: Donghyun Youn
 date: 2022-02-04
 category: Jekyll
 layout: post
@@ -11,6 +11,7 @@ layout: post
 </p>
 
 I am an IC designer, as a member of [IMPACT Lab](https://impact.kaist.ac.kr/) with 35+ graduate students and 14+ research projects.
+
 I have enjoyed diving into discussions with them to experience broad range of applications and circuit blocks.
 
 During my M.S. and Ph.D. degrees, I led six successful tape-outs, designing following circuits:
