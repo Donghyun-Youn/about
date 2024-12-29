@@ -21,7 +21,9 @@ layout: post
 </div>
 
 ## Undergraduate
-<div style="text-align: right"><b>* Project leader</b></div>
-**Home Appliance Control System Based on Gesture Recognition**\* ([Link](https://www.youtube.com/watch?v=0Td27zwFiqM))
+<div style="text-align: right"><b>* Project leader</b></div><br>
+**Home Appliance Control System Based on Gesture Recognition**\* ([Link](https://www.youtube.com/watch?v=0Td27zwFiqM)) <br>
+**Contribution**: <br> 1) MATLAB algorithm for gesture recognition <br> 2) its real-time demonstration with various gestures and places <br><br>
 
-**Contribution**: <br> 1) MATLAB algorithm for gesture recognition 2) its real-time demonstration with various gestures and places
+**Signal Processing of High-Voltage Thin-Film-Transistor (TFT)-Based Tactile Sensor**\* ([Link](https://sites.google.com/view/ndllab/research/%EC%97%B0%EA%B5%AC%EB%B0%A9%ED%96%A5/biomimetic-tactile-sensor)) <br>
+**Contribution**: <br> 1) MATLAB algorithm for gesture recognition <br> 2) its real-time demonstration with various gestures and places <br><br>
