@@ -28,7 +28,7 @@ I have enjoyed discussions with them to experience broad range of applications a
 + Samsung 28nm LPP<br>
 
 I am on the **lookout for internship opportunities in IC design**,<br>
-and **<span style="color:blue">being on-site at San Francisco in Feb. 2025 to present my paper in ISSCC</span>**.
+and **<span style="color:blue">being on-site in San Francisco on Feb. 2025 to present my paper in ISSCC</span>**.
 
 If you are requiring any assistance or interested in my experience, please **feel free to reach me**.<br>
 I would be happy to tell you the details and dive into discussions.<br>
