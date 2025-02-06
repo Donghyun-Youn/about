@@ -7,7 +7,7 @@ layout: post
 ---
 
 ## Research Assistant
-<div style="text-align: right">(Update: Dec. 2024)&nbsp;&nbsp;&nbsp;* Click the layout views to zoom in&nbsp;&nbsp;&nbsp;<b>** Project leader</b></div>
+<div style="text-align: right">(Updated: Jan. 2025)&nbsp;&nbsp;&nbsp;* Click the layout views to zoom in&nbsp;&nbsp;&nbsp;<b>** Project leader</b></div>
 
 
 <div class="table-wrapper" markdown="block">
