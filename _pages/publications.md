@@ -6,7 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-<div style="text-align: right">(Update: Dec. 2024)&nbsp;&nbsp;&nbsp;* Click the die photos to zoom in&nbsp;&nbsp;&nbsp;<b>** Equally-Credited Authors</b></div>
+<div style="text-align: right">(Updated: Jan. 2025)&nbsp;&nbsp;&nbsp;* Click the die photos to zoom in&nbsp;&nbsp;&nbsp;<b>** Equally-Credited Authors</b></div>
 
 <div class="table-wrapper" markdown="block">
 |Die photograph\*|<center>Title & Contribution</center>|
