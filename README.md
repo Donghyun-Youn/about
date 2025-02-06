@@ -15,7 +15,7 @@ I have enjoyed discussions with them to experience broad range of applications a
 1) analog/mixed-signal IC designs<br>
 2) mathematical analysis on their behavior or noise model.<br>
 
-**During my Ph.D. degrees, I have experienced six successful tape-outs** with following circuits:
+**During my Ph.D. degrees, I have participated in six successful tape-outs** with following circuits:
 + Frequency-Locked Loop (FLL)
 + Analog-to-Digital Converter (SAR, ΔΣM)
 + 16-QAM Modulator<br>
