@@ -13,7 +13,7 @@ I am an IC designer, as a member of [IMPACT Lab](https://impact.kaist.ac.kr/) wi
 I have enjoyed discussions with them to experience broad range of applications and circuit blocks, <br>
 **being proficient in**<br>
 1) analog/mixed-signal IC designs<br>
-2) mathematical analysis on their behavior or noise model.<br>
+2) mathematical analysis on their behavior or noise models.<br>
 
 **During my Ph.D. degrees, I have participated in six successful tape-outs** with following circuits:
 + Frequency-Locked Loop (FLL)
@@ -26,9 +26,6 @@ I have enjoyed discussions with them to experience broad range of applications a
 + TSMC 65nm GP
 + TSMC 55nm ULP
 + Samsung 28nm LPP<br>
-
-I am on the **lookout for internship opportunities in IC design**,<br>
-and **<span style="color:blue">being on-site in San Francisco on Feb. 2025 to present my paper in ISSCC</span>**.
 
 If you are requiring any assistance or interested in my experience, please **feel free to reach me**.<br>
 I would be happy to tell you the details and dive into discussions.<br>
